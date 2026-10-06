@@ -1,0 +1,362 @@
+[
+  {
+    "source": "models/__init__.py",
+    "destination": "models/__init__.py",
+    "mode": "verbatim",
+    "source_sha256": "6a3cf5192354f71615ac51034b3e97c20eda99643fcaf5bbe6d41ad59bd12167"
+  },
+  {
+    "source": "models/AdaIR.py",
+    "destination": "models/AdaIR.py",
+    "mode": "verbatim",
+    "source_sha256": "18d1b3f95c9617f1e92499019efb656fbff082c06dd90312b36fcb966ec31f8d"
+  },
+  {
+    "source": "models/blocks.py",
+    "destination": "models/blocks.py",
+    "mode": "verbatim",
+    "source_sha256": "112124312b6cf9b3a83d301b7b038decb6d5a3cd6bf978aeb36dc2904202a978"
+  },
+  {
+    "source": "models/ComplexDehazeNet.py",
+    "destination": "models/ComplexDehazeNet.py",
+    "mode": "verbatim",
+    "source_sha256": "669c46688e623946a140ee053973f58eafb80ab9f8585c372f32bc09489eb6b0"
+  },
+  {
+    "source": "models/DehazeFormer.py",
+    "destination": "models/DehazeFormer.py",
+    "mode": "verbatim",
+    "source_sha256": "1363d18fb2beb9ecc0649c41da4526323c8d1823b9bc8195586582b3bdc0b149"
+  },
+  {
+    "source": "models/Diffusion.py",
+    "destination": "models/Diffusion.py",
+    "mode": "verbatim",
+    "source_sha256": "713e44d8a10afefb661cfb6c491feb2cd6c797dffbecf2211c2c9fd3ffc79487"
+  },
+  {
+    "source": "models/DLrestormer.py",
+    "destination": "models/DLrestormer.py",
+    "mode": "verbatim",
+    "source_sha256": "5700a2314de40e821c4c9500a46e27090d5a8faac9040ff99dbebff4cc9b0230"
+  },
+  {
+    "source": "models/FFCNet.py",
+    "destination": "models/FFCNet.py",
+    "mode": "verbatim",
+    "source_sha256": "8fef6e076d875945523b4fe446ba5de1bd59da7e7cc718f27fbfd65c37c7371b"
+  },
+  {
+    "source": "models/FFCNet_3C.py",
+    "destination": "models/FFCNet_3C.py",
+    "mode": "verbatim",
+    "source_sha256": "d7cb2c755019189ced89235f464dc189b2f8ff97c2abc17ec67d17e2353c2168"
+  },
+  {
+    "source": "models/IAT.py",
+    "destination": "models/IAT.py",
+    "mode": "verbatim",
+    "source_sha256": "9b8ce488f1d9beebbd2147fa42463f6fb628ff8a4942e620bbd8134df5fa6cab"
+  },
+  {
+    "source": "models/KA_Net.py",
+    "destination": "models/KA_Net.py",
+    "mode": "verbatim",
+    "source_sha256": "00cc58cb839d0c9ffc456476fb3501822b119020d5305ee357553453f89a6440"
+  },
+  {
+    "source": "models/KD_Diffusion.py",
+    "destination": "models/KD_Diffusion.py",
+    "mode": "verbatim",
+    "source_sha256": "5a08a549ca7a19e366f58e7c8e3452c3269a375cf4cdf4de92f51d498317fc0f"
+  },
+  {
+    "source": "models/LPFormer.py",
+    "destination": "models/LPFormer.py",
+    "mode": "verbatim",
+    "source_sha256": "a8f8f93e49f1ae3275a6583e697e2562edf7e53cf4550eef90c3187c1e6d3a35"
+  },
+  {
+    "source": "models/LPnafnet.py",
+    "destination": "models/LPnafnet.py",
+    "mode": "verbatim",
+    "source_sha256": "eee03bc4e9404fa81710cd28ca9aad7276c1c9fe55cb01073b17d5b50490a25f"
+  },
+  {
+    "source": "models/MB_TaylorFormer.py",
+    "destination": "models/MB_TaylorFormer.py",
+    "mode": "verbatim",
+    "source_sha256": "f23e7d2f2042a168a8362fd71f8f5d33cfa20ce5840626b202e973e600fe48b5"
+  },
+  {
+    "source": "models/nafnet.py",
+    "destination": "models/nafnet.py",
+    "mode": "verbatim",
+    "source_sha256": "b811279db9659fd05d296f9940b7d2a6019ebbd1c0c07f36268a6385c94d0263"
+  },
+  {
+    "source": "models/nn_utils.py",
+    "destination": "models/nn_utils.py",
+    "mode": "verbatim",
+    "source_sha256": "a4ed784222fd98dfeb02e72194881a7786ce3f359db47fa19fe728625043b518"
+  },
+  {
+    "source": "models/pfan.py",
+    "destination": "models/pfan.py",
+    "mode": "verbatim",
+    "source_sha256": "b18dccca1d17b1140a4be5395bb57b49d562bd278101e6802d62fe8572f76cc7"
+  },
+  {
+    "source": "models/Res_DWTPsf.py",
+    "destination": "models/Res_DWTPsf.py",
+    "mode": "verbatim",
+    "source_sha256": "6ecbd455b4765c51b9e4e8a8aab92d5c2b878230e19199e2795d596e09e8439a"
+  },
+  {
+    "source": "models/Res_Global.py",
+    "destination": "models/Res_Global.py",
+    "mode": "verbatim",
+    "source_sha256": "a1271da07f15bd9b69047537002300715d1627d72032e8c30b10a4fd03ccbcd7"
+  },
+  {
+    "source": "models/Res_Psfbasis.py",
+    "destination": "models/Res_Psfbasis.py",
+    "mode": "verbatim",
+    "source_sha256": "8c70ec82bc076ae922c32024fdb88c3620ae97da800aa055d960e170ee8aceb4"
+  },
+  {
+    "source": "models/Res_Strict.py",
+    "destination": "models/Res_Strict.py",
+    "mode": "verbatim",
+    "source_sha256": "bae8461136aaabff1da73372cba45b9de2565374d87faaae20d3f0d27bcd5285"
+  },
+  {
+    "source": "models/Res_V2.py",
+    "destination": "models/Res_V2.py",
+    "mode": "verbatim",
+    "source_sha256": "0aa36f62b08a784ab825619bee33e4e943c3921e11a79d48711a7256f866d1ad"
+  },
+  {
+    "source": "models/Resbase.py",
+    "destination": "models/Resbase.py",
+    "mode": "verbatim",
+    "source_sha256": "f2ff8b9b6d7b3de511a042da359300f59cc94df7cbbb1a114678bd186d1199d2"
+  },
+  {
+    "source": "models/ResBranches.py",
+    "destination": "models/ResBranches.py",
+    "mode": "verbatim",
+    "source_sha256": "89efe971c95a662d4931602a91599403ff69b6c3230472eeb4394508e1be2131"
+  },
+  {
+    "source": "models/Restormer.py",
+    "destination": "models/Restormer.py",
+    "mode": "verbatim",
+    "source_sha256": "a752d6787fdb900defff46fbd29fea2d10847632f734c5104c2606a5ebac520e"
+  },
+  {
+    "source": "models/Restormer_PriorVariants.py",
+    "destination": "models/Restormer_PriorVariants.py",
+    "mode": "verbatim",
+    "source_sha256": "fbd73feb8d3a9533dc3b9190650af8081b9cd33f0c2517a6051095950deca833"
+  },
+  {
+    "source": "models/RSFMNet.py",
+    "destination": "models/RSFMNet.py",
+    "mode": "verbatim",
+    "source_sha256": "5978e122cae60875ef8a38c25103fbeb3c0b20262e111d45f404a3b4598fd5f6"
+  },
+  {
+    "source": "models/SCANet.py",
+    "destination": "models/SCANet.py",
+    "mode": "verbatim",
+    "source_sha256": "c2c92c381ccab5846a6e456c1226f6e9c94f024bc04b7e5f480c446aa91ed648"
+  },
+  {
+    "source": "models/SelfPromer.py",
+    "destination": "models/SelfPromer.py",
+    "mode": "verbatim",
+    "source_sha256": "9fd5390af33e781b173b78a8cddcbb6283e8f90ae17f14aa50b59652f79fd89d"
+  },
+  {
+    "source": "models/SwinIR.py",
+    "destination": "models/SwinIR.py",
+    "mode": "verbatim",
+    "source_sha256": "0a3617f7c2eeeab2790d9ccbe6caaad784db4131c9cf2b156bbb9f566b9b0b71"
+  },
+  {
+    "source": "models/TestUNet.py",
+    "destination": "models/TestUNet.py",
+    "mode": "verbatim",
+    "source_sha256": "f0ae85e09f5a03e72d40af41e90d9a8f3f1693450730421689112718badc3723"
+  },
+  {
+    "source": "models/TransDehaze.py",
+    "destination": "models/TransDehaze.py",
+    "mode": "verbatim",
+    "source_sha256": "d594d3b0367686bf2b0b2090e05523dbc4f174e084986955bc4d87905f79dcf6"
+  },
+  {
+    "source": "models/Uformer.py",
+    "destination": "models/Uformer.py",
+    "mode": "verbatim",
+    "source_sha256": "ab6f2fae94a696e0236c8029a4e645d61e684f809ed825d66881ddd0d5fe6ff1"
+  },
+  {
+    "source": "models/ULW.py",
+    "destination": "models/ULW.py",
+    "mode": "verbatim",
+    "source_sha256": "0db1328734a08dba45fc76b3cfd16409517ab135b543fb2989923f3cd99fcf4d"
+  },
+  {
+    "source": "models/UNet_CBAM.py",
+    "destination": "models/UNet_CBAM.py",
+    "mode": "verbatim",
+    "source_sha256": "38b0d315e77804824f2a841027fea22894997cae30c22730793331c8c75d7509"
+  },
+  {
+    "source": "models/UW_Enhance.py",
+    "destination": "models/UW_Enhance.py",
+    "mode": "verbatim",
+    "source_sha256": "b5e3257014d99476e01ae0e8391949fac2a117ecdd128ea49a576189d6e6da46"
+  },
+  {
+    "source": "data/__init__.py",
+    "destination": "data/__init__.py",
+    "mode": "verbatim",
+    "source_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "source": "data/dataset_GlobalMeta.py",
+    "destination": "data/dataset_GlobalMeta.py",
+    "mode": "verbatim",
+    "source_sha256": "c464309d9c6581cdebbcc8a9e75b79e3aa78db6723a1b7229faf5527aeb35807"
+  },
+  {
+    "source": "data/dataset_GlobalMeta_FullCanvas.py",
+    "destination": "data/dataset_GlobalMeta_FullCanvas.py",
+    "mode": "verbatim",
+    "source_sha256": "5fb63b3bdd087228840600d04aad41efc23237725e0f5ef22cc1585ff2d7415d"
+  },
+  {
+    "source": "loss/__init__.py",
+    "destination": "loss/__init__.py",
+    "mode": "verbatim",
+    "source_sha256": "001e3bfce97bdd3eabddf206ac68fdb7964c300252b627d1200f27091b0a9f4c"
+  },
+  {
+    "source": "loss/loss.py",
+    "destination": "loss/loss.py",
+    "mode": "verbatim",
+    "source_sha256": "5d842d01be614caecc67f128515505d0f89dacfd380ea13bef91d8f26e921a7a"
+  },
+  {
+    "source": "loss/wavelet_loss.py",
+    "destination": "loss/wavelet_loss.py",
+    "mode": "verbatim",
+    "source_sha256": "a0e9f2333762dd2732c3c527f6fc8fd66c3b4b87dd440e3f86ef11a9b8de8734"
+  },
+  {
+    "source": "utils/__init__.py",
+    "destination": "utils/__init__.py",
+    "mode": "verbatim",
+    "source_sha256": "6a52031819f1587e09bcff945beecdf7db1e0418b4af5195d61f1fd4444505e7"
+  },
+  {
+    "source": "utils/utils.py",
+    "destination": "utils/utils.py",
+    "mode": "verbatim",
+    "source_sha256": "c334bfd792194f56351435cdd81757684e2f2ccb4ef52625b461cecbbdf9d88a"
+  },
+  {
+    "source": "utils/wavelet.py",
+    "destination": "utils/wavelet.py",
+    "mode": "verbatim",
+    "source_sha256": "a0e9f2333762dd2732c3c527f6fc8fd66c3b4b87dd440e3f86ef11a9b8de8734"
+  },
+  {
+    "source": "config/__init__.py",
+    "destination": "config/__init__.py",
+    "mode": "verbatim",
+    "source_sha256": "22eef9fb0f7f9e53e69c1fea280ee761a69a1dfef1b53ac398af0de2fd96577e"
+  },
+  {
+    "source": "config/config.py",
+    "destination": "config/config.py",
+    "mode": "verbatim",
+    "source_sha256": "0842e7bafe7a4d0979ae5a0cc324e20621121e469553db39e08c808cb183d2fc"
+  },
+  {
+    "source": "config.yml",
+    "destination": "config.yml",
+    "mode": "verbatim",
+    "source_sha256": "c1b52e4b93c0a91ac9ef9f7107171537e5088f6cc6d72f88e5e89675da205932"
+  },
+  {
+    "source": "tools/__init__.py",
+    "destination": "tools/__init__.py",
+    "mode": "verbatim",
+    "source_sha256": "22eef9fb0f7f9e53e69c1fea280ee761a69a1dfef1b53ac398af0de2fd96577e"
+  },
+  {
+    "source": "README.md",
+    "destination": "docs/README.original.md",
+    "mode": "verbatim",
+    "source_sha256": "84780c8026fc6c94d4ef142361c93673b37129d23001bd55f1bc5dd8fe4dc95b"
+  },
+  {
+    "source": "requirements.txt",
+    "destination": "models/requirements-reference.txt",
+    "mode": "verbatim",
+    "source_sha256": "5e1e8caab63add9d10a6840e1cd8c6c3d9aa715cfe295a3a994829aa97e7ed16"
+  },
+  {
+    "source": "open_source/THIRD_PARTY_NOTICES.md",
+    "destination": "THIRD_PARTY_NOTICES.md",
+    "mode": "verbatim",
+    "source_sha256": "b36b838a72cf403001bef60bb51fe0484f055e3425eae0409bf5c31925081568"
+  },
+  {
+    "source": "open_source/results/paper_run.txt",
+    "destination": "results/paper_run.txt",
+    "mode": "verbatim",
+    "source_sha256": "5c72869780c8d1d3916ccf7b8a06d9bc55bd08b0287e574fe3e5a7c4018a8400"
+  },
+  {
+    "source": "run_Ablation_GlobalDegField_4Level_6500_FullCanvas_FastVal_WarmStart.py",
+    "destination": "train_strict_global_degfield.py",
+    "mode": "adapted",
+    "source_sha256": "926d12eec9a5c402a452b4a545453e2acd1a63901a14aa68d6d43e76eb9ec247"
+  },
+  {
+    "source": "engines/engine_Ablation_6500_fullcanvas_fastval_warmstart.py",
+    "destination": "engines/engine_strict_global_degfield.py",
+    "mode": "adapted",
+    "source_sha256": "5fbfe43a1d3fafeda8ee1a32116bc958ee6e2ccdfeb57c479ed95c92b23e7751"
+  },
+  {
+    "source": "run_Psfbasis.py",
+    "destination": "train_psf_degfield.py",
+    "mode": "adapted",
+    "source_sha256": "edbb084e64a7c0833f527b0c2714f59a6403a65f5e4bbfb496477641a335eb61"
+  },
+  {
+    "source": "engines/engine_Psfbasis.py",
+    "destination": "engines/engine_psf_degfield.py",
+    "mode": "adapted",
+    "source_sha256": "8e1fdab66e7a7b4cd43fe6eacc152f12fe29f9ed78b1b5cd28e69d66889f0013"
+  },
+  {
+    "source": "run_Global.py",
+    "destination": "train_global_psf_wavelet_moe.py",
+    "mode": "adapted",
+    "source_sha256": "c596db40125696cf73ec6a32a81f2a2e14347a1bd16977b3fc5a21f3480c218a"
+  },
+  {
+    "source": "engines/engine_Global.py",
+    "destination": "engines/engine_global_psf_wavelet_moe.py",
+    "mode": "adapted",
+    "source_sha256": "afa12b61978f1864a978c659192e28c7eb97e0f0831b9346a76d4e5d439082c3"
+  }
+]

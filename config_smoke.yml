@@ -1,0 +1,39 @@
+VERBOSE: False
+
+MODEL:
+  SESSION: 'StrictGlobalDegField_Restoration'
+  INPUT: 'metalens_degraded'
+  TARGET: 'clean'
+
+OPTIM:
+  BATCH_SIZE: 1
+  NUM_EPOCHS: 1
+  LR_MIN: 1e-6
+  LR_INITIAL: 2e-4
+  SEED: 3407
+  WANDB: False
+
+  USE_MUON: False
+  WEIGHT_DECAY: 0.0
+  MUON_LR: null
+  MUON_LR_MULT: 5
+
+TRAINING:
+  VAL_AFTER_EVERY: 1
+  RESUME: False
+  WEIGHT: ''
+  PS_W: 256
+  PS_H: 256
+  SAVE_DIR: './checkpoints/StrictGlobalDegField/'
+  LOG_FILE: 'strict_global_degfield_train.log'
+
+TESTING:
+  INPUT: 'metalens_degraded'
+  TARGET: 'clean'
+  WEIGHT: ''
+  SAVE_IMAGES: True
+  RESULT_DIR: './results/StrictGlobalDegField/'
+  LOG_FILE: 'strict_global_degfield_test.log'
+
+LOG:
+  LOG_DIR: './logs/'

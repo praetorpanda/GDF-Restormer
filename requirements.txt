@@ -1,0 +1,13 @@
+# Runtime dependencies after PyTorch / torchvision are installed.
+# Tested release environment: Python 3.10, PyTorch 2.0.1, torchvision 0.15.2.
+
+accelerate==1.13.0
+torchmetrics==1.7.0
+numpy==1.26.4
+opencv-python==4.6.0.66
+Pillow==10.4.0
+PyYAML==6.0.2
+yacs==0.1.8
+tqdm==4.65.2
+einops==0.8.1
+huggingface_hub==2.1.1

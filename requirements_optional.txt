@@ -1,0 +1,2 @@
+# Optional optimizer. The default release uses AdamW and does not need Muon.
+muon-optimizer @ git+https://github.com/KellerJordan/Muon@f90a42b28e00b8d9d2d05865fe90d9f39abcbcbd

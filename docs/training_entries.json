@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Restormer_StrictGlobalDegField",
+    "train": "train_strict_global_degfield.py",
+    "engine": "engines/engine_strict_global_degfield.py",
+    "source": "run_Ablation_GlobalDegField_4Level_6500_FullCanvas_FastVal_WarmStart.py",
+    "stage": "paper: fixed6500/1729 FullCanvas"
+  },
+  {
+    "model": "Restormer_PSFLikeDegField",
+    "train": "train_psf_degfield.py",
+    "engine": "engines/engine_psf_degfield.py",
+    "source": "run_Psfbasis.py",
+    "stage": "early PSF: synth4000"
+  },
+  {
+    "model": "Restormer_GlobalPSFScaleRetinexWaveletMoE",
+    "train": "train_global_psf_wavelet_moe.py",
+    "engine": "engines/engine_global_psf_wavelet_moe.py",
+    "source": "run_Global.py",
+    "stage": "early global: synth4000 RectROI"
+  }
+]
