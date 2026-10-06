@@ -19,3 +19,7 @@ results/*
 *.pyc
 checkpoints_smoke/
 split_6500_1729/
+
+# Local credentials / secrets
+token.txt
+*.token
